@@ -1,6 +1,6 @@
 # Product Title
 
-**FREE Spanish Directed Drawing Worksheets | 8 Activities in 2 Levels | Dibuja, Repasa y Escribe**
+**FREE Spanish Directed Drawing K-2 | Dibujo Dirigido | Draw & Write No Prep**
 
 ---
 
@@ -8,7 +8,7 @@
 
 **This is a free sample of Spanish Directed Drawing, Volume 1.** It includes 8 complete activities, one from each theme in the book, and every activity comes at two levels of difficulty. The worksheets are exactly the same as in the full resource, with nothing shortened and no watermarks. Print them and try them with your students to see whether the format fits your classroom.
 
-**All directions and words on the worksheets are in Spanish.** Only the small Level 1 or Level 2 label in the corner of each page is in English, to help the teacher sort the pages.
+**All activities, words, and directions on the worksheets are in Spanish. There is no English text on the student pages.**
 
 The Spanish vocabulary uses words commonly heard in Spanish-speaking families and classrooms in the United States. In this sample you will find **hongo** and **pastel**, and the full resource continues the same way with words such as **carro** and **patineta**.
 
@@ -20,7 +20,7 @@ Each activity follows four simple stages:
 
 **2. Repasa - Trace.** Students trace the lines and shapes of the completed picture, developing fine motor skills and hand-eye coordination.
 
-**3. Dibuja y colorea - Draw & Color.** Students draw the picture on their own, choose their colors, and can add their own details.
+**3. Dibuja tú solo - Draw on Your Own.** Students draw the picture on their own, choose their colors, and can add their own details.
 
 **4. Repasa y escribe - Trace & Write.** Students first trace the Spanish word and then write it independently, practicing handwriting and Spanish spelling.
 
@@ -111,13 +111,13 @@ Happy teaching!
 
 # ПЕРЕВОД НА РУССКИЙ (на площадку не вставлять)
 
-**Название:** БЕСПЛАТНО. Испанские листы рисования по шагам | 8 заданий на двух уровнях | Рисуй, обводи и пиши
+**Название:** Бесплатно. Испанское рисование по шагам K-2 | Рисование по шагам | Рисуй и пиши, без подготовки
 
 **Описание**
 
 Это бесплатный образец из набора «Испанское рисование по шагам, том 1». Внутри 8 полных заданий, по одному из каждой темы книги, и каждое задание на двух уровнях сложности. Листы точно такие же, как в полном наборе, ничего не урезано и без водяных знаков. Распечатайте и попробуйте с детьми, чтобы понять, подходит ли формат вашему классу.
 
-Все указания и слова на листах на испанском. По-английски только маленькая надпись «Уровень 1» или «Уровень 2» в углу страницы, чтобы учителю было удобно раскладывать листы.
+Все задания, слова и указания на листах на испанском. На листах ученика нет английского текста.
 
 Испанские слова взяты те, что звучат в испаноязычных семьях и классах в США. В этом образце вы встретите hongo (гриб) и pastel (торт), и в полном наборе так же: carro (машина), patineta (скейтборд).
 
@@ -127,7 +127,7 @@ Happy teaching!
 
 1. Следуй шагам. Рисунок разбит на небольшие понятные шаги. Ребёнок видит, с чего начать и что рисовать дальше.
 2. Обведи. Ребёнок обводит линии и формы готового рисунка, развивая мелкую моторику и координацию руки и глаза.
-3. Нарисуй и раскрась. Ребёнок рисует сам, выбирает цвета и может добавить свои детали.
+3. Нарисуй сам. Ребёнок рисует сам, выбирает цвета и может добавить свои детали.
 4. Обведи и напиши. Ребёнок сначала обводит испанское слово, потом пишет его сам, тренируя почерк и испанское правописание.
 
 Каждое задание дано на двух уровнях:
