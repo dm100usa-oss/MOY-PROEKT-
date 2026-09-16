@@ -1,6 +1,6 @@
 # Product Title
 
-**Directed Drawing Worksheets | 55 Activities in 2 Levels | Draw, Trace & Write | Print & Go**
+**Directed Drawing and Writing K-2 | Trace & Write Worksheets | No Prep Year Long**
 
 ---
 

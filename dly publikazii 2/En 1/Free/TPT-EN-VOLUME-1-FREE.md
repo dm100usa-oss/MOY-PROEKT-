@@ -1,6 +1,6 @@
 # Product Title
 
-**FREE Directed Drawing Worksheets | 8 Activities in 2 Levels | Draw, Trace & Write | Print & Go**
+**FREE Directed Drawing and Writing K-2 | Trace & Write Worksheets | No Prep**
 
 ---
 
@@ -107,7 +107,7 @@ Happy teaching!
 
 # ПЕРЕВОД НА РУССКИЙ (на площадку не вставлять)
 
-**Название:** БЕСПЛАТНО. Листы рисования по шагам | 8 заданий на двух уровнях | Рисуй, обводи и пиши | Распечатай и работай
+**Название:** Бесплатно. Рисование по шагам с письмом K-2 | Листы «обводи и пиши» | Без подготовки
 
 **Описание**
 
