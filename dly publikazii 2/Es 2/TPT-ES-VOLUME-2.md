@@ -1,6 +1,6 @@
 # Product Title
 
-**Spanish Directed Drawing Worksheets Volume 2 | 55 New Activities + 1 Bonus | 2 Levels | Print & Go**
+**Spanish Directed Drawing Volume 2 K-2 | Dibujo Dirigido | Draw & Write No Prep**
 
 ---
 
@@ -20,7 +20,7 @@ Each activity follows four simple stages:
 
 **2. Repasa - Trace.** Students trace the lines and shapes of the completed picture, developing fine motor skills and hand-eye coordination.
 
-**3. Dibuja y colorea - Draw & Color.** Students draw the picture on their own, choose their colors, and can add their own details, encouraging independence and creativity.
+**3. Dibuja tú solo - Draw on Your Own.** Students draw the picture on their own, choose their colors, and can add their own details, encouraging independence and creativity.
 
 **4. Repasa y escribe - Trace & Write.** Students first trace the Spanish word and then write it independently, getting additional handwriting practice while reinforcing Spanish vocabulary and spelling.
 
