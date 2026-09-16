@@ -1,6 +1,6 @@
 # Product Title
 
-**Directed Drawing Worksheets Volume 2 | 55 New Activities + 1 Bonus | 2 Levels | Print & Go**
+**Directed Drawing and Writing K-2 Volume 2 | Trace & Write Worksheets | No Prep**
 
 ---
 
