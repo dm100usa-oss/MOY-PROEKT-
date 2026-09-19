@@ -30,6 +30,10 @@ sES = ParagraphStyle('es', parent=sEN, textColor=ES_C)
 sT1 = ParagraphStyle('t1', fontName='BB', fontSize=18, leading=23, textColor=EN_C, alignment=TA_CENTER)
 sT2 = ParagraphStyle('t2', parent=sT1, textColor=ES_C)
 GAP_IN, GAP_PAIR = 6, 26
+import os as _os
+SEP = _os.environ.get('SEP', 'scenes')
+SCENES = {0: {10, 25, 38}, 1: {16, 27, 29, 31}, 2: {13, 28}, 3: {38, 48}, 4: {11, 17, 32, 39}}
+STAR_H = 44
 IMG_MAXH_TEXT, IMG_MAXH_OPEN = 290, 300
 
 TITLES = [('Lucky Rocky and His Friends', 'Rocky el Afortunado y sus amigos'),
@@ -75,10 +79,11 @@ def img_box(key, maxh):
 
 
 NOSPLIT = {'on': False}
+CURGAP = {'g': 26}
 def split_to_fit(chunks, pg):
     """если пара не помещается, а места на странице много, делим её по предложениям"""
     en, es = chunks[0]
-    free = TXH - pg['used'] - GAP_PAIR
+    free = TXH - pg['used'] - CURGAP['g']
     pe, he = para(en, sEN); ps, hs = para(es, sES)
     if he + GAP_IN + hs <= free or free < 50:
         return chunks
@@ -199,16 +204,23 @@ def layout():
                 chunks = [(' '.join(se[:cut_e]), ' '.join(ss[:cut_s])), (' '.join(se[cut_e:]), ' '.join(ss[cut_s:]))]
             else:
                 chunks = [(en, es)]
+            CURGAP['g'] = STAR_H if (k > 1 and (SEP == 'all' or (SEP == 'scenes' and k in SCENES.get(ci, set())))) else GAP_PAIR
             chunks = chunks if NOSPLIT['on'] else split_to_fit(chunks, pg)
             NOSPLIT['on'] = False
             for en2, es2 in chunks:
                 pe, he = para_m(en2, sEN, ci, 'en'); ps, hs = para_m(es2, sES, ci, 'es')
-                tot = (GAP_PAIR if pg['used'] > 0 else 0) + he + GAP_IN + hs
+                first = (en2, es2) == chunks[0]
+                sep = first and k > 1 and (SEP == 'all' or (SEP == 'scenes' and k in SCENES.get(ci, set())))
+                gapv = STAR_H if sep else GAP_PAIR
+                tot = (gapv if pg['used'] > 0 else 0) + he + GAP_IN + hs
                 if pg['used'] + tot > TXH + 0.5:
                     finalize(len(pages) - 1); pg = new_text_page()
                     tot = he + GAP_IN + hs
                 y0 = pg['used'] + (tot - he - GAP_IN - hs)
-                pg['items'].append(('par', pe, he, tot - he - GAP_IN - hs)); pg['items'].append(('par', ps, hs, GAP_IN))
+                bef = tot - he - GAP_IN - hs
+                if sep and bef > 0:
+                    pg['items'].append(('stars', bef)); bef = 0
+                pg['items'].append(('par', pe, he, bef)); pg['items'].append(('par', ps, hs, GAP_IN))
                 pg['used'] += tot; pg['pairs'].add(k)
             # горизонтальная картинка после абзаца
             if k in plan['after']:
@@ -287,7 +299,10 @@ def draw(path):
         else:
             y = by + TH - TOP
             for it in P['items']:
-                if it[0] == 'par':
+                if it[0] == 'stars':
+                    c.setFillColor(Color(.6, .6, .6)); c.setFont('BB', 16)
+                    c.drawCentredString(left + TXW / 2, y - it[1] / 2 - 6, '*    *    *'); y -= it[1]
+                elif it[0] == 'par':
                     _, p, h, before = it; y -= before; p.drawOn(c, left, y - h); y -= h
                 else:
                     _, key, w, h, before = it; y -= before
@@ -344,6 +359,31 @@ def draw_words(c, ci, left, by, i):
     num(c, i, trim_x(i))
 
 
+def slots(word, show_all=False):
+    res=[]; k=0
+    for ch in word.upper():
+        if ch == ' ':
+            res.append((' ', None)); k = 0; continue
+        vis = (k == 0 or k % 2 == 0); k += 1
+        res.append((ch, vis))
+    return res
+
+
+def draw_slots(c, x, y, word, col, example=False, size=16):
+    SW, GAP = 10, 3.5
+    for ch, vis in slots(word):
+        if vis is None:
+            x += SW; continue
+        if vis:
+            c.setFillColor(col); c.setFont('BB', size); c.drawCentredString(x + SW / 2, y, ch)
+        else:
+            c.setStrokeColor(Color(.2, .2, .2)); c.setLineWidth(1.2)
+            c.line(x, y - 3, x + SW, y - 3)
+            if example:
+                c.setFillColor(Color(.48, .48, .48)); c.setFont('BB', size); c.drawCentredString(x + SW / 2, y, ch)
+        x += SW + GAP
+
+
 def draw_turn(c, ci, left, by, i):
     b = D['blocks'][ci]
     cx = left + TXW / 2
@@ -353,8 +393,7 @@ def draw_turn(c, ci, left, by, i):
     c.setFillColor(EN_C); c.setFont('B', 15); c.drawCentredString(cx, y, 'Fill in the missing letters.')
     c.setFillColor(ES_C); c.drawCentredString(cx, y - 20, 'Completa las letras que faltan.')
     y -= 58
-    colw = TXW / 2; rowh = 132; ics = 96
-    import re as _r
+    colw = TXW / 2; rowh = 132; ics = 86
     for n, (e, s) in enumerate(b['words']):
         col, row = n % 2, n // 2
         x = left + col * colw + 4
@@ -362,8 +401,12 @@ def draw_turn(c, ci, left, by, i):
         c.drawImage(IMG + f'ic/{ci+1}-{n+1:02d}.jpg', x, yy - ics, ics, ics)
         art, noun = (s.split(' ', 1) + [''])[:2]
         tx = x + ics + 12
-        c.setFillColor(EN_C); c.setFont('BB', 17); c.drawString(tx, yy - 40, blanks(e))
-        c.setFillColor(ES_C); c.setFont('BB', 17); c.drawString(tx, yy - 70, art.upper() + '  ' + blanks(noun))
+        ex = (n == 0)
+        if ex:
+            c.setFillColor(Color(.45, .45, .45)); c.setFont('BI', 11); c.drawString(tx, yy - 14, 'Example · Ejemplo')
+        draw_slots(c, tx, yy - 40, e, EN_C, ex)
+        c.setFillColor(ES_C); c.setFont('BB', 16); c.drawString(tx, yy - 70, art.upper())
+        draw_slots(c, tx + c.stringWidth(art.upper(), 'BB', 16) + 9, yy - 70, noun, ES_C, ex)
     num(c, i, trim_x(i))
 
 
