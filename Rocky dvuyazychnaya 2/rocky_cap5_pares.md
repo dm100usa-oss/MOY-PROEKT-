@@ -15,7 +15,7 @@ Marcas: `sin cambios` / `tratamiento` / `lexico` / `contenido` / `parrafo` / `el
 
 **2 EN.** "Grandma Owl, Grandma Owl, we are here!" the puppies shouted, stopping in front of the door.
 
-**2 ES.** — ¡Abuelita lechuza, abuelita lechuza, estamos aquí! — gritaron los cachorros, deteniéndose frente a la puerta. `sin cambios`
+**2 ES.** —¡Abuelita lechuza, abuelita lechuza, estamos aquí! —gritaron los cachorros, deteniéndose frente a la puerta. `sin cambios`
 
 ---
 
@@ -28,14 +28,14 @@ Marcas: `sin cambios` / `tratamiento` / `lexico` / `contenido` / `parrafo` / `el
 
 **4 EN.** "Hello, little ones!" she said.
 
-**4 ES.** — ¡**Hola, pequeños**! — les dijo. `eliminado`
+**4 ES.** —¡**Hola, pequeños**! —les dijo. `eliminado`
 > ES tenia "¡Hello, guys!".
 
 ---
 
 **5 EN.** "Hello, Grandma Beatrice!" the friends greeted her all together.
 
-**5 ES.** — ¡**Hola**, abuelita Beatriz! — la saludaron los amigos **todos a la vez**. `eliminado`
+**5 ES.** —¡**Hola**, abuelita Beatriz! —la saludaron los amigos **todos a la vez**. `eliminado`
 > ES tenia "¡Hello, abuelita Beatriz! — saludaron los amigos al unisono, **contentos de saber hablar ingles**". Se quita entera.
 
 ---
@@ -49,7 +49,7 @@ Marcas: `sin cambios` / `tratamiento` / `lexico` / `contenido` / `parrafo` / `el
 
 **7 EN.** "We came to hear another story of yours," Brisket said, looking at the cookies.
 
-**7 ES.** — Vinimos a escuchar otra historia **tuya**, — dijo Brisket, mirando las galletas. `contenido`
+**7 ES.** —Vinimos a escuchar otra historia **tuya** —dijo Brisket, mirando las galletas. `contenido`
 > Faltaba "of yours".
 
 ---
@@ -62,7 +62,7 @@ Marcas: `sin cambios` / `tratamiento` / `lexico` / `contenido` / `parrafo` / `el
 
 **9 EN.** "Help yourselves!" she offered. "And while you're having breakfast, I'll tell you a story about Amelia, the little hard-working bee."
 
-**9 ES.** — ¡**Sírvanse**! — les ofreció. — Y mientras **desayunan**, **les** contaré la historia de Amelia, la pequeña abejita trabajadora. `eliminado` `tratamiento`
+**9 ES.** —¡**Sírvanse**! —les ofreció—. Y mientras **desayunan**, **les** contaré la historia de Amelia, la pequeña abejita trabajadora. `eliminado` `tratamiento`
 > ES tenia otra frase entera: "¿Quereis un poco de te **como en Inglaterra**?". EN dice "Help yourselves!". Se sustituye.
 
 ---
@@ -75,13 +75,13 @@ Marcas: `sin cambios` / `tratamiento` / `lexico` / `contenido` / `parrafo` / `el
 
 **11 EN.** "Amelia lived with her parents in a small house at the top of a large tree. At first, she couldn't be called hardworking at all. She woke up late and barely ever helped her parents.
 
-**11 ES.** — Amelia vivía con sus padres en una casita en lo alto de un gran árbol. Al principio no se la podía llamar trabajadora en absoluto. Se levantaba tarde y casi nunca ayudaba a sus padres. `sin cambios`
+**11 ES.** —Amelia vivía con sus padres en una casita en lo alto de un gran árbol. Al principio no se la podía llamar trabajadora en absoluto. Se levantaba tarde y casi nunca ayudaba a sus padres. `sin cambios`
 
 ---
 
 **12 EN.** "Amelia, let's fly together today to collect honey!" her mom asked her.
 
-**12 ES.** «Amelia, ¡vamos hoy a recolectar miel **juntas**!» — le pedía su mamá. `contenido`
+**12 ES.** «Amelia, ¡vamos hoy a recolectar miel **juntas**!», le pedía su mamá. `contenido`
 > Error de concordancia: la mama y Amelia son dos hembras, va **juntas**, no "juntos". Ademas EN es exclamativo, no pregunta.
 
 ---
@@ -109,7 +109,7 @@ Marcas: `sin cambios` / `tratamiento` / `lexico` / `contenido` / `parrafo` / `el
 
 **16 EN.** Bees always collect honey and then store it in their houses," continued Grandma Owl. "They gather it from flowers, which only bloom in summer. In winter, when there are no more flowers, the bees eat whatever they had stored and wait for the next warm season. To survive the cold winter, they need to collect a lot of honey. And Amelia's parents worked very hard. They had already collected half of what they needed and knew they still had a lot of work ahead of them.
 
-**16 ES.** — Las abejas siempre recogen miel y la guardan en sus casas, — continuó la abuelita lechuza. — La recolectan de las flores, que solo florecen en verano. En invierno, cuando ya no hay flores, comen lo que han guardado y esperan la llegada de la nueva temporada cálida. Para sobrevivir al frío invierno necesitan recolectar mucha miel. **Y** los padres de Amelia trabajaban muy duro. Ya habían recolectado la mitad de lo que necesitaban y sabían que aún les quedaba mucho trabajo por delante. `sin cambios`
+**16 ES.** —Las abejas siempre recogen miel y la guardan en sus casas —continuó la abuelita lechuza—. La recolectan de las flores, que solo florecen en verano. En invierno, cuando ya no hay flores, comen lo que han guardado y esperan la llegada de la nueva temporada cálida. Para sobrevivir al frío invierno necesitan recolectar mucha miel. **Y** los padres de Amelia trabajaban muy duro. Ya habían recolectado la mitad de lo que necesitaban y sabían que aún les quedaba mucho trabajo por delante. `sin cambios`
 
 ---
 
@@ -224,35 +224,35 @@ Marcas: `sin cambios` / `tratamiento` / `lexico` / `contenido` / `parrafo` / `el
 
 **33 EN.** "Great!" said Rocky.
 
-**33 ES.** — ¡**Qué bien**! — dijo Rocky. `contenido`
+**33 ES.** —¡**Qué bien**! —dijo Rocky. `contenido`
 > ES decia "¡Guau!". EN dice "Great!".
 
 ---
 
 **34 EN.** "She is such a smart cookie!" Penny added.
 
-**34 ES.** — ¡**Qué lista es**! — añadió Penny. `contenido`
+**34 ES.** —¡**Qué lista es**! —añadió Penny. `contenido`
 > **Cambio de sentido.** ES decia "¡Que bondadosa es!" (que buena). EN dice "smart cookie", es decir **lista**, no buena.
 
 ---
 
 **35 EN.** "Yeah!" Brisket agreed.
 
-**35 ES.** — ¡Sí! — estuvo de acuerdo Brisket. `contenido`
+**35 ES.** —¡Sí! —estuvo de acuerdo Brisket. `contenido`
 > ES decia "¡Exacto!". EN dice "Yeah!".
 
 ---
 
 **36 EN.** "She took care of her mom and dad and managed to cure them. She collected a lot of honey, although at first she didn't like doing it at all," Penny continued.
 
-**36 ES.** — Cuidó de su mamá y de su papá y **logró curarlos**. Recolectó mucha miel, aunque al principio no le gustaba nada hacerlo, — continuó Penny. `contenido`
+**36 ES.** —Cuidó de su mamá y de su papá y **logró curarlos**. Recolectó mucha miel, aunque al principio no le gustaba nada hacerlo —continuó Penny. `contenido`
 > EN: "managed to cure them". ES decia "hasta que se recuperaron".
 
 ---
 
 **37 EN.** "This is what real heroes do!" Grandma Owl added.
 
-**37 ES.** — ¡Así es como actúan los verdaderos héroes! — añadió la abuelita lechuza. `sin cambios`
+**37 ES.** —¡Así es como actúan los verdaderos héroes! —añadió la abuelita lechuza. `sin cambios`
 
 ---
 

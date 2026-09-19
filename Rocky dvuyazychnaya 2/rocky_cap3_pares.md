@@ -16,40 +16,40 @@ Marcas: `sin cambios` / `tratamiento` / `lexico` / `contenido` / `parrafo` / `el
 
 **2 EN.** "We must help Grandpa!" said Rocky. "Remember, he always takes care of us."
 
-**2 ES.** — ¡Tenemos que ayudar al abuelo! — dijo Rocky. — **Acuérdense de que él siempre nos cuida.** `contenido` `tratamiento`
+**2 ES.** —¡Tenemos que ayudar al abuelo! —dijo Rocky—. **Acuérdense de que él siempre nos cuida.** `contenido` `tratamiento`
 > EN dice "Remember, he always takes care of us". ES lo habia reducido a "Siempre se preocupa por nosotros" y perdia el "recuerden".
 
 ---
 
 **3 EN.** "And we will take care of him!" Penny supported her brother.
 
-**3 ES.** — ¡Y nosotros **lo cuidaremos**! — dijo Penny, apoyando a su hermano. `contenido`
+**3 ES.** —¡Y nosotros **lo cuidaremos**! —dijo Penny, apoyando a su hermano. `contenido`
 > EN repite a proposito "takes care of us" / "take care of him". ES decia "hoy le ayudaremos" y perdia el eco.
 
 ---
 
 **4 EN.** "Like Grandma Owl taught us!" Brisket agreed with them.
 
-**4 ES.** — ¡Como nos enseñó la abuelita lechuza! — estuvo de acuerdo Brisket. `sin cambios`
+**4 ES.** —¡Como nos enseñó la abuelita lechuza! —estuvo de acuerdo Brisket. `sin cambios`
 
 ---
 
 **5 EN.** "Grandpa Jose is our friend," Rocky said. "We will help him for sure!"
 
-**5 ES.** — El abuelo José es nuestro amigo, — dijo Rocky. — ¡Seguro que lo **ayudaremos**! `contenido`
+**5 ES.** —El abuelo José es nuestro amigo —dijo Rocky—. ¡Seguro que lo **ayudaremos**! `contenido`
 > EN: "We will help him for sure!", futuro.
 
 ---
 
 **6 EN.** "So, we need a plan," Penny continued. "Let's search the whole house again, in case Grandpa Jose simply didn't notice them."
 
-**6 ES.** — Entonces necesitamos un plan, — continuó Penny. — Vamos a revisar toda la casa otra vez, por si el abuelo José simplemente **no los vio**. `lexico`
+**6 ES.** —Entonces necesitamos un plan —continuó Penny—. Vamos a revisar toda la casa otra vez, por si el abuelo José simplemente **no los vio**. `lexico`
 
 ---
 
 **7 EN.** "And then the garden!" Brisket added.
 
-**7 ES.** — ¡Y después el jardín! — agregó Brisket. `sin cambios`
+**7 ES.** —¡Y después el jardín! —agregó Brisket. `sin cambios`
 
 ---
 
@@ -62,25 +62,25 @@ Marcas: `sin cambios` / `tratamiento` / `lexico` / `contenido` / `parrafo` / `el
 
 **9 EN.** "We won't give up," Rocky said. "Grandpa really needs his glasses!"
 
-**9 ES.** — No nos vamos a rendir, — dijo Rocky. — ¡Al abuelo le hacen mucha falta sus **lentes**! `lexico`
+**9 ES.** —No nos vamos a rendir —dijo Rocky—. ¡Al abuelo le hacen mucha falta sus **lentes**! `lexico`
 
 ---
 
 **10 EN.** "And we need a new plan!" Penny added.
 
-**10 ES.** — ¡Y necesitamos un plan nuevo! — agregó Penny. `sin cambios`
+**10 ES.** —¡Y necesitamos un plan nuevo! —agregó Penny. `sin cambios`
 
 ---
 
 **11 EN.** "Exactly!" said Brisket.
 
-**11 ES.** — ¡Exacto! — dijo Brisket. `sin cambios`
+**11 ES.** —¡Exacto! —dijo Brisket. `sin cambios`
 
 ---
 
 **12 EN.** "Maybe Grandpa took his glasses somewhere?" Penny suggested. "Rocky, you have the keenest sense of smell, you can find any trace and any object by scent. Try to search and find out where Grandpa Jose has been lately.
 
-**12 ES.** — ¿Y si el abuelo **llevó sus lentes** a algún lugar? — sugirió Penny. — Rocky, tú tienes el olfato más fino, puedes encontrar cualquier rastro y cualquier objeto por su olor. Trata de buscar y averiguar dónde ha estado el abuelo últimamente. `lexico` `contenido`
+**12 ES.** —¿Y si el abuelo **llevó sus lentes** a algún lugar? —sugirió Penny—. Rocky, tú tienes el olfato más fino, puedes encontrar cualquier rastro y cualquier objeto por su olor. Trata de buscar y averiguar dónde ha estado el abuelo últimamente. `lexico` `contenido`
 > EN: "Maybe Grandpa took his glasses somewhere?" = se los llevo consigo. ES decia "se dejo" (los olvido), y entonces no se entiende por que deciden seguir su rastro.
 
 ---
@@ -94,7 +94,7 @@ Marcas: `sin cambios` / `tratamiento` / `lexico` / `contenido` / `parrafo` / `el
 
 **14 EN.** "I know the owner of this store," Rocky said. "Her name is Aunt Veronica. Stay here, and I'll go in and ask her if she had seen Grandpa's glasses."
 
-**14 ES.** — Conozco a la dueña de esta tienda, — dijo Rocky. — Se llama tía Verónica. **Quédense** aquí, entraré y le preguntaré si **vio** **los lentes** del abuelo. `tratamiento` `lexico`
+**14 ES.** —Conozco a la dueña de esta tienda —dijo Rocky—. Se llama tía Verónica. **Quédense** aquí, entraré y le preguntaré si **vio** **los lentes** del abuelo. `tratamiento` `lexico`
 
 ---
 
@@ -106,14 +106,14 @@ Marcas: `sin cambios` / `tratamiento` / `lexico` / `contenido` / `parrafo` / `el
 
 **16 EN.** "Hello, Aunt Veronica!" he said.
 
-**16 ES.** — ¡Hola, tía Verónica! — dijo. `eliminado`
+**16 ES.** —¡Hola, tía Verónica! —dijo. `eliminado`
 > Se quita "¡Hello, tia Veronica! — sin darse cuenta, se lo dijo en ingles".
 
 ---
 
 **17 EN.** "Hello, Lucky Rocky!" Aunt Veronica answered. "How can I help you?" she asked.
 
-**17 ES.** — ¡Hola, Rocky el Afortunado! — respondió tía Verónica. — **¿En qué te puedo ayudar?** — preguntó. `eliminado` `restaurado`
+**17 ES.** —¡Hola, Rocky el Afortunado! —respondió tía Verónica—. **¿En qué te puedo ayudar?** —preguntó. `eliminado` `restaurado`
 > Faltaba la pregunta "How can I help you?", que es justo lo que hace gracioso el parrafo siguiente.
 
 ---
@@ -127,13 +127,13 @@ Marcas: `sin cambios` / `tratamiento` / `lexico` / `contenido` / `parrafo` / `el
 
 **19 EN.** "I came here on a very important mission," Rocky continued. "Grandpa Jose lost his glasses. He can't work or read without them. Have you seen them by any chance?"
 
-**19 ES.** — Vengo por un asunto muy importante, — continuó Rocky. — Mi abuelo José perdió sus **lentes**. Sin **ellos** no puede trabajar ni leer. ¿Por casualidad **los viste**? `lexico`
+**19 ES.** —Vengo por un asunto muy importante —continuó Rocky—. Mi abuelo José perdió sus **lentes**. Sin **ellos** no puede trabajar ni leer. ¿Por casualidad **los viste**? `lexico`
 
 ---
 
 **20 EN.** "I saw a pair of glasses," answered Aunt Veronica, continuing to smile. "Someone left them in my store yesterday. I put them on the shelf hoping that whoever lost them would see them and take them back. Grandpa Jose came here yesterday," she continued, "to buy bread and cheese and probably forgot his glasses when he took them out of his pocket to get his wallet."
 
-**20 ES.** — **Sí, vi unos lentes**, — respondió tía Verónica, sin dejar de sonreír. — Alguien **se los dejó** olvidados aquí ayer. **Los puse** en el estante con la esperanza de que quien **los hubiera perdido** pudiera **verlos** y **los recogiera**. El abuelo José estuvo aquí ayer, — continuó, — a comprar pan y queso, y seguramente olvidó sus **lentes** cuando **los sacó del bolsillo** para **tomar** su **billetera**. `lexico` `contenido`
+**20 ES.** —**Sí, vi unos lentes** —respondió tía Verónica, sin dejar de sonreír—. Alguien **se los dejó** olvidados aquí ayer. **Los puse** en el estante con la esperanza de que quien **los hubiera perdido** pudiera **verlos** y **los recogiera**. El abuelo José estuvo aquí ayer —continuó—, a comprar pan y queso, y seguramente olvidó sus **lentes** cuando **los sacó del bolsillo** para **tomar** su **billetera**. `lexico` `contenido`
 > Faltaba "when he took them out of his pocket": sin eso no se entiende como se le olvidaron. Ademas quedaba un "coger" mas: para coger su monedero → para **tomar** su **billetera** ("wallet"; monedero es el de monedas).
 
 ---
@@ -147,13 +147,13 @@ Marcas: `sin cambios` / `tratamiento` / `lexico` / `contenido` / `parrafo` / `el
 
 **22 EN.** "I came to get them, Aunt Veronica. My friends and I decided to help Grandpa find his glasses."
 
-**22 ES.** — Vine a **buscarlos**, tía Verónica. Mis amigos y yo decidimos ayudar al abuelo a encontrar sus **lentes**. `lexico`
+**22 ES.** —Vine a **buscarlos**, tía Verónica. Mis amigos y yo decidimos ayudar al abuelo a encontrar sus **lentes**. `lexico`
 
 ---
 
 **23 EN.** "Here they are, on the shelf to your right. Take them and bring them to your Grandpa," answered Aunt Veronica.
 
-**23 ES.** — Ahí están, en el estante a tu derecha. **Tómalos y llévaselos** al abuelo, — respondió tía Verónica. `lexico`
+**23 ES.** —Ahí están, en el estante a tu derecha. **Tómalos y llévaselos** al abuelo —respondió tía Verónica. `lexico`
 > cogelas → tomalos. Ademas EN no dice "Por supuesto".
 
 ---
@@ -167,13 +167,13 @@ Marcas: `sin cambios` / `tratamiento` / `lexico` / `contenido` / `parrafo` / `el
 
 **25 EN.** "Goodbye, Aunt Veronica, and thank you very much!" he said and headed towards the store exit.
 
-**25 ES.** — ¡Adiós, tía Verónica, y muchas gracias! — dijo, y se dirigió a la salida de la tienda. `sin cambios`
+**25 ES.** —¡Adiós, tía Verónica, y muchas gracias! —dijo, y se dirigió a la salida de la tienda. `sin cambios`
 
 ---
 
 **26 EN.** "Goodbye, Lucky!" Aunt Veronica answered.
 
-**26 ES.** — ¡Adiós, Afortunado! — respondió tía Verónica. `contenido`
+**26 ES.** —¡Adiós, Afortunado! —respondió tía Verónica. `contenido`
 > EN dice solo "Lucky". ES decia "Rocky, el Afortunado".
 
 ---
@@ -194,7 +194,7 @@ Marcas: `sin cambios` / `tratamiento` / `lexico` / `contenido` / `parrafo` / `el
 
 **29 EN.** "You are such great little puppies!" Grandfather said to them. "You are the best detectives in the world!" he patted them on the heads, hugged them and said: "Well done! Well done!"
 
-**29 ES.** — ¡Qué cachorritos tan maravillosos! — les dijo el abuelo. — **¡Son los mejores detectives del mundo!** — les acarició la cabeza, los abrazó y dijo: — ¡Muy bien! ¡Muy bien! `tratamiento` `restaurado`
+**29 ES.** —¡Qué cachorritos tan maravillosos! —les dijo el abuelo—. **¡Son los mejores detectives del mundo!** —les acarició la cabeza, los abrazó y dijo—: ¡Muy bien! ¡Muy bien! `tratamiento` `restaurado`
 > Faltaba por completo "You are the best detectives in the world!". Se restaura. Ademas "¡Sois increibles, todos vosotros!" → forma de ustedes.
 
 ---

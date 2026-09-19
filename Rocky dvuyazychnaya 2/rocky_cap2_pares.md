@@ -21,7 +21,7 @@ Marcas: `sin cambios` / `tratamiento` / `lexico` / `contenido` / `parrafo` / `el
 
 **3 EN.** "Grandma Owl, we're here!"
 
-**3 ES.** — ¡Abuelita lechuza, estamos aquí! `sin cambios`
+**3 ES.** —¡Abuelita lechuza, estamos aquí! `sin cambios`
 
 ---
 
@@ -33,27 +33,27 @@ Marcas: `sin cambios` / `tratamiento` / `lexico` / `contenido` / `parrafo` / `el
 
 **5 EN.** "I was waiting for you. Hi, little ones!"
 
-**5 ES.** — **Los** estaba esperando. **¡Hola, pequeños!** `eliminado` `tratamiento`
+**5 ES.** —**Los** estaba esperando. **¡Hola, pequeños!** `eliminado` `tratamiento`
 > Se quita "¡Hello, guys!". Os → Los.
 
 ---
 
 **6 EN.** "Hello, Grandma Beatrice!" the friends greeted her.
 
-**6 ES.** — **¡Hola**, abuelita Beatriz! — saludaron los amigos. `eliminado`
+**6 ES.** —**¡Hola**, abuelita Beatriz! —saludaron los amigos. `eliminado`
 
 ---
 
 **7 EN.** "Let's go inside, I prepared some delicious sweet pudding for you. It's a dish from England. I think it came out very well today."
 
-**7 ES.** — Entremos a casa, **preparé** un delicioso y dulce **budín** para **ustedes**. Es un plato de Inglaterra, y creo que hoy me **salió** maravillosamente bien. `tratamiento` `lexico` `contenido`
+**7 ES.** —Entremos a casa, **preparé** un delicioso y dulce **budín** para **ustedes**. Es un plato de Inglaterra, y creo que hoy me **salió** maravillosamente bien. `tratamiento` `lexico` `contenido`
 > pudin → budin. vosotros → ustedes. Se quita "rapidamente", que EN no tiene.
 
 ---
 
 **8 EN.** "Let's try it," Rocky laughed.
 
-**8 ES.** — **Vamos a probarlo**, — se rio Rocky. `contenido`
+**8 ES.** —**Vamos a probarlo** —se rio Rocky. `contenido`
 > ES decia "Ahora veremos" (ya veremos), que no es lo que dice EN.
 
 ---
@@ -66,20 +66,20 @@ Marcas: `sin cambios` / `tratamiento` / `lexico` / `contenido` / `parrafo` / `el
 
 **10 EN.** "Grandma Owl, will you tell us one of your wonderful stories today?"
 
-**10 ES.** — Abuelita lechuza, ¿nos vas a contar hoy una de tus maravillosas historias? `sin cambios`
+**10 ES.** —Abuelita lechuza, ¿nos vas a contar hoy una de tus maravillosas historias? `sin cambios`
 
 ---
 
 **11 EN.** "Do you want me to?" asked the Owl.
 
-**11 ES.** — ¿**Quieren que les cuente una**? — preguntó la lechuza. `tratamiento` `contenido`
+**11 ES.** —¿**Quieren que les cuente una**? —preguntó la lechuza. `tratamiento` `contenido`
 > EN: "Do you want me to?" remite a la frase anterior. En espanol "¿Quieren?" a secas queda sin objeto.
 
 ---
 
 **12 EN.** "Yes! We do!" Rocky and Penny yelled.
 
-**12 ES.** — ¡Sí! ¡Sí queremos! — gritaron Rocky y Penny. `sin cambios`
+**12 ES.** —¡Sí! ¡Sí queremos! —gritaron Rocky y Penny. `sin cambios`
 
 ---
 
@@ -91,7 +91,7 @@ Marcas: `sin cambios` / `tratamiento` / `lexico` / `contenido` / `parrafo` / `el
 
 **14 EN.** "I'll tell you a story from my childhood then," said Grandma Beatrice. "It's about how important it is to help each other."
 
-**14 ES.** — Entonces **les** voy a contar una historia de cuando era pequeña, — dijo la abuelita Beatriz. — Es sobre lo importante que es ayudarnos los unos a los otros. `tratamiento`
+**14 ES.** —Entonces **les** voy a contar una historia de cuando era pequeña —dijo la abuelita Beatriz—. Es sobre lo importante que es ayudarnos los unos a los otros. `tratamiento`
 
 ---
 
@@ -103,7 +103,7 @@ Marcas: `sin cambios` / `tratamiento` / `lexico` / `contenido` / `parrafo` / `el
 
 **16 EN.** "It happened a long time ago in my home country, England. There are many beautiful hills covered with green grass, lovely lakes and rivers, dense forests where all kinds of animals live. There are also many large and small towns and ancient castles. Castles are the homes of kings and queens. They are very tall, have a lot of rooms and are full of secrets and mysteries. So, at that time I was still a little owlet, about your age. We lived as a family in a high tower of an old castle. Next to it was a large oak forest. There was a river flowing through that forest, and my friend Dani lived with his parents in a small house next to the river. He was a beaver. I flew to see him almost every day. We played, laughed and went on different adventures together. Dani was very kind and sweet, always ready to help others."
 
-**16 ES.** — Sucedió hace mucho tiempo en mi país natal, Inglaterra. Allí hay muchas colinas hermosas cubiertas de hierba verde, hermosos lagos y ríos, densos bosques donde viven diferentes animales. También hay ciudades grandes y pequeñas, y castillos antiguos. Los castillos son las casas de los reyes y las reinas. Son muy altos, tienen muchas habitaciones y están llenos de secretos y misterios. En ese momento, yo todavía era una pequeña lechuza, más o menos de **su** edad. Vivíamos con toda nuestra familia en una alta torre de un antiguo castillo. Cerca de allí había un gran bosque de robles. Por ese bosque corría un río, y junto a ese río **vivía mi amigo Dani con sus padres en una casita**. Él era un castor. **Volaba** a verlo casi todos los días. Jugábamos juntos, nos reíamos y nos embarcábamos en diversas aventuras. Dani era muy amable y simpático, siempre dispuesto a ayudar a los demás. `tratamiento` `contenido` `restaurado`
+**16 ES.** —Sucedió hace mucho tiempo en mi país natal, Inglaterra. Allí hay muchas colinas hermosas cubiertas de hierba verde, hermosos lagos y ríos, densos bosques donde viven diferentes animales. También hay ciudades grandes y pequeñas, y castillos antiguos. Los castillos son las casas de los reyes y las reinas. Son muy altos, tienen muchas habitaciones y están llenos de secretos y misterios. En ese momento, yo todavía era una pequeña lechuza, más o menos de **su** edad. Vivíamos con toda nuestra familia en una alta torre de un antiguo castillo. Cerca de allí había un gran bosque de robles. Por ese bosque corría un río, y junto a ese río **vivía mi amigo Dani con sus padres en una casita**. Él era un castor. **Volaba** a verlo casi todos los días. Jugábamos juntos, nos reíamos y nos embarcábamos en diversas aventuras. Dani era muy amable y simpático, siempre dispuesto a ayudar a los demás. `tratamiento` `contenido` `restaurado`
 > vuestra → su. Faltaba "lived with his parents in a small house": se restaura. "iba a visitarlo" → "volaba a verlo" (es una lechuza, EN dice "I flew"). Nombre: EN usa **Dani**, ES usaba **Danny**. Se unifica a Dani en todo el capitulo.
 
 ---
@@ -117,7 +117,7 @@ Marcas: `sin cambios` / `tratamiento` / `lexico` / `contenido` / `parrafo` / `el
 
 **18 EN.** "Everything in our life was going perfectly well. But one evening it started to rain. At first no one paid much attention to it because it often rains in England. But the rain wouldn't stop. Seven days later the river rose and overflowed its banks. There was so much water that it flooded everything around it and completely destroyed Dani's house. When the rain finally stopped, I flew to Dani to find out how he was doing, and saw that the beaver was sitting by the water and crying bitterly.
 
-**18 ES.** — Todo en nuestra vida iba perfectamente bien. Pero una noche comenzó a llover. Al principio nadie le dio importancia, ya que las lluvias son comunes en Inglaterra. Pero la lluvia no paraba. Siete días después, el río creció y se desbordó. **Había tanta agua que inundó todo a su alrededor y destruyó por completo la casa de Dani.** Cuando finalmente dejó de llover, volé a ver a Dani para saber cómo estaba, **y vi que el castor estaba sentado junto al agua, llorando amargamente.** `restaurado`
+**18 ES.** —Todo en nuestra vida iba perfectamente bien. Pero una noche comenzó a llover. Al principio nadie le dio importancia, ya que las lluvias son comunes en Inglaterra. Pero la lluvia no paraba. Siete días después, el río creció y se desbordó. **Había tanta agua que inundó todo a su alrededor y destruyó por completo la casa de Dani.** Cuando finalmente dejó de llover, volé a ver a Dani para saber cómo estaba, **y vi que el castor estaba sentado junto al agua, llorando amargamente.** `restaurado`
 > Faltaban dos cosas: la inundacion que destruye la casa, y sobre todo que Dani estaba llorando. Sin esa frase, la pregunta siguiente ("¿Por que lloras?") no tiene de donde salir.
 
 ---
@@ -144,7 +144,7 @@ Marcas: `sin cambios` / `tratamiento` / `lexico` / `contenido` / `parrafo` / `el
 
 **22 EN.** "That's right!" said Rocky. "I would **have** told him the same thing." `corregido en EN`
 
-**22 ES.** — ¡**Así es**! — dijo Rocky. — Yo también le habría dicho eso. `contenido`
+**22 ES.** —¡**Así es**! —dijo Rocky—. Yo también le habría dicho eso. `contenido`
 > ES decia "¡Asi se dice!", que significa "asi se pronuncia". EN expresa acuerdo.
 > El ingles original tenia una errata: "I would told him". Corregido a "I would have told him" tambien en el texto ingles del libro.
 
@@ -213,20 +213,20 @@ Marcas: `sin cambios` / `tratamiento` / `lexico` / `contenido` / `parrafo` / `el
 
 **32 EN.** "Friendship is a very valuable gift," said the Owl. "If you have a friend, you don't need to be afraid of anything at all!"
 
-**32 ES.** — La amistad es un regalo muy valioso, — dijo la lechuza. — Si tienes un amigo, no hay nada que temer. `parrafo`
+**32 ES.** —La amistad es un regalo muy valioso —dijo la lechuza—. Si tienes un amigo, no hay nada que temer. `parrafo`
 
 ---
 
 **33 EN.** "Grandma Owl, am I your friend?" Rocky asked for some reason.
 
-**33 ES.** — Abuelita lechuza, ¿yo soy tu amigo? — preguntó Rocky **sin saber bien por qué**. `eliminado` `parrafo`
+**33 ES.** —Abuelita lechuza, ¿yo soy tu amigo? —preguntó Rocky **sin saber bien por qué**. `eliminado` `parrafo`
 > ES tenia aqui la leccion: "¿como se dice «amigo» en ingles?" — «Friend» (frehnd) — "¿Y yo soy tu «friend»?". Ademas "de repente" (suddenly) → "sin saber bien por que", por "for some reason".
 
 ---
 
 **34 EN.** "Yes," said Grandma Beatrice. "You are my friend, and I am yours!" "What about us?!" Penny and Brisket shouted together. "You two are also my friends!" Grandma Owl answered and smiled. That's how the day ended. Rocky, Penny and Brisket returned home. Now they knew for sure that friendship is the most important thing in the world.
 
-**34 ES.** — Sí, — dijo la abuelita Beatriz. — Tú eres mi amigo, y yo soy tu amiga. **— ¡¿Y nosotros?! — gritaron a la vez Penny y Brisket. — ¡Ustedes dos también son mis amigos! — respondió la abuelita lechuza sonriendo.** Así terminó el día. Rocky, Penny y Brisket regresaron a casa. Ahora sabían con certeza que la amistad es lo más importante del mundo. `restaurado` `parrafo`
+**34 ES.** —Sí —dijo la abuelita Beatriz—. Tú eres mi amigo, y yo soy tu amiga. **—¡¿Y nosotros?! —gritaron a la vez Penny y Brisket. —¡Ustedes dos también son mis amigos! —respondió la abuelita lechuza sonriendo.** Así terminó el día. Rocky, Penny y Brisket regresaron a casa. Ahora sabían con certeza que la amistad es lo más importante del mundo. `restaurado` `parrafo`
 > Faltaba por completo el intercambio con Penny y Brisket. Se restaura.
 
 ---

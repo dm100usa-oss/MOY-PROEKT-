@@ -15,33 +15,33 @@ Marcas: `sin cambios` / `tratamiento` / `lexico` / `contenido` / `parrafo` / `el
 
 **2 EN.** "What are you doing here?" asked Brisket, who joined them.
 
-**2 ES.** — ¿Qué **están** haciendo aquí? — preguntó Brisket, que se unió a ellos. `tratamiento`
+**2 ES.** —¿Qué **están** haciendo aquí? —preguntó Brisket, que se unió a ellos. `tratamiento`
 
 ---
 
 **3 EN.** "Look," said Rocky, pointing to the boys, "they are launching paper boats, and having a lot of fun. We have to learn how to make boats like these, too."
 
-**3 ES.** — Miren, — dijo Rocky señalando a los niños, — están echando barquitos de papel y se están divirtiendo mucho. **Nosotros también** tenemos que aprender a hacer barquitos así. `tratamiento` `contenido`
+**3 ES.** —Miren —dijo Rocky señalando a los niños—, están echando barquitos de papel y se están divirtiendo mucho. **Nosotros también** tenemos que aprender a hacer barquitos así. `tratamiento` `contenido`
 > EN: "We have to learn ... too". Faltaba el "tambien".
 
 ---
 
 **4 EN.** " I know how to make them!" Brisket said unexpectedly. "Grandfather taught me!"
 
-**4 ES.** — ¡Yo sé hacerlos! — dijo Brisket **inesperadamente**. — ¡Me enseñó mi abuelo! `contenido`
+**4 ES.** —¡Yo sé hacerlos! —dijo Brisket **inesperadamente**—. ¡Me enseñó mi abuelo! `contenido`
 > "dijo sorprendentemente Brisket" no es lo mismo que "said unexpectedly".
 
 ---
 
 **5 EN.** "Me too!" Penny said. "Dad showed me."
 
-**5 ES.** — ¡Yo también! — dijo Penny. — Papá me enseñó. `sin cambios`
+**5 ES.** —¡Yo también! —dijo Penny—. Papá me enseñó. `sin cambios`
 
 ---
 
 **6 EN.** "Wow!" said Rocky. "Am I the only one who can't make paper boats?" This thought really puzzled him, but he decided that he would think about it later.
 
-**6 ES.** — ¡Vaya! — dijo Rocky. — ¿Es que soy el único que no sabe hacer barcos de papel? — Esa idea lo desconcertó de verdad, pero decidió que pensaría en ello más tarde. `sin cambios`
+**6 ES.** —¡Vaya! —dijo Rocky—. ¿Es que soy el único que no sabe hacer barcos de papel? —Esa idea lo desconcertó de verdad, pero decidió que pensaría en ello más tarde. `sin cambios`
 
 ---
 
@@ -54,7 +54,7 @@ Marcas: `sin cambios` / `tratamiento` / `lexico` / `contenido` / `parrafo` / `el
 
 **8 EN.** "Look, what a brave little mouse!" Rocky told his friends.
 
-**8 ES.** — ¡Miren qué valiente es ese ratoncito! — **les dijo Rocky a sus amigos**. `contenido`
+**8 ES.** —¡Miren qué valiente es ese ratoncito! —**les dijo Rocky a sus amigos**. `contenido`
 > Faltaba el sujeto: EN dice "Rocky told his friends".
 
 ---
@@ -68,21 +68,21 @@ Marcas: `sin cambios` / `tratamiento` / `lexico` / `contenido` / `parrafo` / `el
 
 **10 EN.** "I would love to sail like that, too," said Penny. "But I'm too heavy for a paper boat," she sighed.
 
-**10 ES.** — A mí también me encantaría navegar así, — dijo Penny. — Pero **soy demasiado pesada** para un barco de papel, — suspiró. `contenido`
+**10 ES.** —A mí también me encantaría navegar así —dijo Penny—. Pero **soy demasiado pesada** para un barco de papel —suspiró. `contenido`
 > EN: "I'm too heavy". ES lo daba la vuelta: "el barco no podria sostenerme".
 
 ---
 
 **11 EN.** "Looks like he's too heavy for a paper boat as well," said Rocky. "Look, the boat is slowly starting to get steeped with water. Very soon the paper will be soaked right through, and the boat will fall apart. The little mouse will end up in the water and may drown."
 
-**11 ES.** — Parece que él también es demasiado pesado para un barco de papel, — dijo Rocky. — Miren, el barco poco a poco **empieza a empaparse de agua**. Muy pronto el papel **estará completamente empapado** y el barco **se deshará**. El ratoncito acabará en el agua y se puede ahogar. `tratamiento` `contenido`
+**11 ES.** —Parece que él también es demasiado pesado para un barco de papel —dijo Rocky—. Miren, el barco poco a poco **empieza a empaparse de agua**. Muy pronto el papel **estará completamente empapado** y el barco **se deshará**. El ratoncito acabará en el agua y se puede ahogar. `tratamiento` `contenido`
 > EN: "the boat will fall apart" (se deshara). ES decia dos veces lo mismo: "se rompera" y luego "se va a hundir".
 
 ---
 
 **12 EN.** "Let's run quickly and tell him about it!" said Brisket.
 
-**12 ES.** — ¡Corramos rápido a avisarle! — dijo Brisket. `sin cambios`
+**12 ES.** —¡Corramos rápido a avisarle! —dijo Brisket. `sin cambios`
 
 ---
 
@@ -102,13 +102,13 @@ Marcas: `sin cambios` / `tratamiento` / `lexico` / `contenido` / `parrafo` / `el
 
 **15 EN.** "Hey, don't bother me, just let me sail!"
 
-**15 ES.** — ¡Eh, me **están** molestando, **déjenme** navegar tranquilo! `tratamiento`
+**15 ES.** —¡Eh, me **están** molestando, **déjenme** navegar tranquilo! `tratamiento`
 
 ---
 
 **16 EN.** "Look!" Rocky shouted to him. "Your boat is already half soaked with water and will sink very soon! You need to get out fast! Fast!"
 
-**16 ES.** — ¡Mira! — le gritó Rocky. — ¡Tu barco de papel ya está medio empapado y se hundirá muy pronto! ¡Tienes que salir rápido! ¡Rápido! `sin cambios`
+**16 ES.** —¡Mira! —le gritó Rocky—. ¡Tu barco de papel ya está medio empapado y se hundirá muy pronto! ¡Tienes que salir rápido! ¡Rápido! `sin cambios`
 
 ---
 
@@ -121,20 +121,20 @@ Marcas: `sin cambios` / `tratamiento` / `lexico` / `contenido` / `parrafo` / `el
 
 **18 EN.** "Uh-oh! Please save me!" the little mouse shouted. "Oh! Help! I can't swim!"
 
-**18 ES.** — ¡Ay, ay, ay! ¡Sálvenme, por favor! — gritó el ratoncito. — ¡Ay! ¡Auxilio! ¡No sé nadar! `tratamiento` `contenido`
+**18 ES.** —¡Ay, ay, ay! ¡Sálvenme, por favor! —gritó el ratoncito—. ¡Ay! ¡Auxilio! ¡No sé nadar! `tratamiento` `contenido`
 > EN: "Please save me!". ES no lo tenia.
 
 ---
 
 **19 EN.** "Row to the shore, fast!" Penny and Brisket shouted to him.
 
-**19 ES.** — ¡Rema hacia la orilla, rápido! — le gritaban Penny y Brisket. `sin cambios`
+**19 ES.** —¡Rema hacia la orilla, rápido! —le gritaban Penny y Brisket. `sin cambios`
 
 ---
 
 **20 EN.** "I can't," the mouse answered them. "I don't have oars — I didn't think about that."
 
-**20 ES.** — No puedo, — les respondió el ratón. — No tengo remos, no pensé en eso. `sin cambios`
+**20 ES.** —No puedo —les respondió el ratón—. No tengo remos, no pensé en eso. `sin cambios`
 
 ---
 
@@ -146,7 +146,7 @@ Marcas: `sin cambios` / `tratamiento` / `lexico` / `contenido` / `parrafo` / `el
 
 **22 EN.** "You see, up there," he said to his friends as he ran, "is a big long branch right by the stream. If we can tip it over the stream, the little mouse will grab onto it and we will pull him to the shore."
 
-**22 ES.** — **Miren** allí, adelante, — les dijo a sus amigos mientras corría, — justo al lado del arroyo hay una rama **grande y** larga. Si podemos inclinarla sobre el arroyo, el ratoncito se agarrará a ella y lo sacaremos a la orilla. `tratamiento` `contenido`
+**22 ES.** —**Miren** allí, adelante —les dijo a sus amigos mientras corría—, justo al lado del arroyo hay una rama **grande y** larga. Si podemos inclinarla sobre el arroyo, el ratoncito se agarrará a ella y lo sacaremos a la orilla. `tratamiento` `contenido`
 > Faltaba "big" en "a big long branch".
 
 ---
@@ -160,7 +160,7 @@ Marcas: `sin cambios` / `tratamiento` / `lexico` / `contenido` / `parrafo` / `el
 
 **24 EN.** "Hey little mouse, grab the branch!" Rocky shouted, holding it with all his strength.
 
-**24 ES.** — ¡Eh, ratoncito, agárrate a la rama! — gritó Rocky, sosteniéndola con todas sus fuerzas. `sin cambios`
+**24 ES.** —¡Eh, ratoncito, agárrate a la rama! —gritó Rocky, sosteniéndola con todas sus fuerzas. `sin cambios`
 
 ---
 
@@ -172,7 +172,7 @@ Marcas: `sin cambios` / `tratamiento` / `lexico` / `contenido` / `parrafo` / `el
 
 **26 EN.** "Yay!" the friends shouted. "We did it! Together we were able to help the poor little mouse."
 
-**26 ES.** — ¡Hurra! — gritaron los amigos. — ¡Lo logramos! Juntos pudimos ayudar al pobre ratoncito. `contenido`
+**26 ES.** —¡Hurra! —gritaron los amigos—. ¡Lo logramos! Juntos pudimos ayudar al pobre ratoncito. `contenido`
 > "¡Yupi!" → "¡Hurra!", igual que en el capitulo tres, para no tener dos gritos distintos en el mismo libro.
 
 ---
@@ -186,7 +186,7 @@ Marcas: `sin cambios` / `tratamiento` / `lexico` / `contenido` / `parrafo` / `el
 
 **28 EN.** "Thank you so much! If it weren't for your help, I would have drowned in that stream. I wanted to sail a boat so much that I forgot to be careful. I didn't think about how I would get off the boat in the end. It was a stupid thing to do. I won't do it again!"
 
-**28 ES.** — ¡Muchas gracias! Si no fuera por **su** ayuda, me habría ahogado en ese arroyo. Tenía tantas ganas de navegar en un barco que olvidé tener cuidado. No pensé en cómo saldría del barco al final. Fue una tontería. ¡No lo volveré a hacer! `tratamiento` `contenido`
+**28 ES.** —¡Muchas gracias! Si no fuera por **su** ayuda, me habría ahogado en ese arroyo. Tenía tantas ganas de navegar en un barco que olvidé tener cuidado. No pensé en cómo saldría del barco al final. Fue una tontería. ¡No lo volveré a hacer! `tratamiento` `contenido`
 > EN: "I would have drowned" (rotundo). ES suavizaba: "no se lo que podria haber pasado, podria haberme ahogado".
 
 ---
@@ -206,7 +206,7 @@ Marcas: `sin cambios` / `tratamiento` / `lexico` / `contenido` / `parrafo` / `el
 
 **31 EN.** "It's okay," he said. "You just need to think before doing something next time"
 
-**31 ES.** — No te preocupes, — le dijo. — **La próxima vez solo tienes que pensar antes de hacer algo**. `parrafo` `contenido`
+**31 ES.** —No te preocupes —le dijo—. **La próxima vez solo tienes que pensar antes de hacer algo**. `parrafo` `contenido`
 > "reflexiona las cosas" no se dice asi en espanol: se reflexiona *sobre* algo. Aqui va "piensa las cosas".
 
 ---
@@ -220,19 +220,19 @@ Marcas: `sin cambios` / `tratamiento` / `lexico` / `contenido` / `parrafo` / `el
 
 **33 EN.** "What's your name and where do you live?" he asked.
 
-**33 ES.** — ¿Cómo te llamas y dónde vives? — le preguntó. `sin cambios`
+**33 ES.** —¿Cómo te llamas y dónde vives? —le preguntó. `sin cambios`
 
 ---
 
 **34 EN.** "My name is little Max," answered the mouse. "I live in that yellow house with my dad, mom, six brothers and five sisters."
 
-**34 ES.** — Me llamo Pequeño Max, — respondió el ratón. — Vivo en aquella casa amarilla, con mi papá, mi mamá, mis seis hermanos y mis cinco hermanas. `sin cambios`
+**34 ES.** —Me llamo Pequeño Max —respondió el ratón—. Vivo en aquella casa amarilla, con mi papá, mi mamá, mis seis hermanos y mis cinco hermanas. `sin cambios`
 
 ---
 
 **35 EN.** "Wow!" said Rocky. "When your brothers and sisters grow up, you'll make up a whole ship crew! And you'll be the captain!" He took the cap from the mouse's paws and put it on his head.
 
-**35 ES.** — ¡Vaya! — dijo Rocky. — Cuando crezcan tus hermanos y hermanas, **podrás formar con ellos** la tripulación entera de un barco. ¡Y tú serás el capitán! — **Tomó** la **gorra** de capitán de entre las patitas del ratoncito y se **la** puso en la cabeza. `tratamiento` `lexico` `contenido`
+**35 ES.** —¡Vaya! —dijo Rocky—. Cuando crezcan tus hermanos y hermanas, **podrás formar con ellos** la tripulación entera de un barco. ¡Y tú serás el capitán! —**Tomó** la **gorra** de capitán de entre las patitas del ratoncito y se **la** puso en la cabeza. `tratamiento` `lexico` `contenido`
 > EN se dirige a Max: "you'll make up a whole ship crew". "podran formar" lo dejaba fuera de su propia tripulacion, y acto seguido es el capitan. Va **podras formar con ellos**.
 > cogio → **tomo** (quitar daria el matiz de arrebatar).
 
@@ -246,7 +246,7 @@ Marcas: `sin cambios` / `tratamiento` / `lexico` / `contenido` / `parrafo` / `el
 
 **37 EN.** "Come on," Penny said to the mouse, "we'll take you home."
 
-**37 ES.** — Vamos, — le dijo Penny al ratoncito, — te acompañamos a casa. `sin cambios`
+**37 ES.** —Vamos —le dijo Penny al ratoncito—, te acompañamos a casa. `sin cambios`
 
 ---
 
@@ -260,7 +260,7 @@ Marcas: `sin cambios` / `tratamiento` / `lexico` / `contenido` / `parrafo` / `el
 
 **39 EN.** "Here!" she said. "I just cut these medals for you out of construction paper. I want to reward you, like real heroes!"
 
-**39 ES.** — ¡Aquí **tienen**! — dijo. — Acabo de **recortar** estas medallas de cartulina para **ustedes**. ¡Quiero **recompensarlos** como a verdaderos héroes! `tratamiento` `contenido`
+**39 ES.** —¡Aquí **tienen**! —dijo—. Acabo de **recortar** estas medallas de cartulina para **ustedes**. ¡Quiero **recompensarlos** como a verdaderos héroes! `tratamiento` `contenido`
 > EN: "I just cut these medals for you out of construction paper" (recortar). Ademas EN no dice "que son"; dice "like real heroes".
 
 ---
@@ -281,20 +281,20 @@ Marcas: `sin cambios` / `tratamiento` / `lexico` / `contenido` / `parrafo` / `el
 
 **42 EN.** "Thank you, Grandma Owl!" said Rocky.
 
-**42 ES.** — ¡Gracias, abuelita lechuza! — dijo Rocky. `sin cambios`
+**42 ES.** —¡Gracias, abuelita lechuza! —dijo Rocky. `sin cambios`
 
 ---
 
 **43 EN.** "Thank you, Grandma Beatrice!" Penny said.
 
-**43 ES.** — ¡**Gracias**, abuelita Beatriz! — dijo Penny. `eliminado`
+**43 ES.** —¡**Gracias**, abuelita Beatriz! —dijo Penny. `eliminado`
 > ES tenia "Thank you, abuelita Beatriz".
 
 ---
 
 **44 EN.** "Thank you very much!" said Brisket.
 
-**44 ES.** — ¡**Muchas, muchas gracias**! — dijo Brisket. `eliminado`
+**44 ES.** —¡**Muchas, muchas gracias**! —dijo Brisket. `eliminado`
 > ES tenia "¡Muchas, muchas Thank you!".
 
 ---
@@ -307,13 +307,13 @@ Marcas: `sin cambios` / `tratamiento` / `lexico` / `contenido` / `parrafo` / `el
 
 **46 EN.** "Now it's time for you to go home!"
 
-**46 ES.** — ¡Y ahora es hora de que **vuelvan** a casa! `tratamiento`
+**46 ES.** —¡Y ahora es hora de que **vuelvan** a casa! `tratamiento`
 
 ---
 
 **47 EN.** "Goodbye!" the puppies said and ran home.
 
-**47 ES.** — ¡**Adiós**! — dijeron los cachorros, y corrieron de vuelta a casa. `eliminado`
+**47 ES.** —¡**Adiós**! —dijeron los cachorros, y corrieron de vuelta a casa. `eliminado`
 > ES tenia "¡Goodbye!".
 
 ---

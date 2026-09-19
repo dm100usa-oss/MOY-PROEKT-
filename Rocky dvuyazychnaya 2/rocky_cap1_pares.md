@@ -28,25 +28,26 @@ Marcas al final de la linea ES: `sin cambios` / `tratamiento` / `lexico` /
 
 **4 EN.** "Lucky, dinner is ready!" his mother called him.
 
-**4 ES.** — ¡Afortunado, ven a comer! — le llamaba su mamá. `sin cambios`
+**4 ES.** —¡Afortunado, ven a comer! —le llamaba su mamá. `sin cambios`
 
 ---
 
 **5 EN.** "Hey, Lucky!" others shouted to him on the street.
 
-**5 ES.** — ¡Hola, Afortunado! — le gritaban en la calle. `sin cambios`
+**5 ES.** —¡Hola, Afortunado! —le gritaban en la calle. `sin cambios`
 
 ---
 
 **6 EN.** "How are you, Lucky?" asked Aunt Anita, who brought the mail.
 
-**6 ES.** — ¿Cómo estás, Afortunado? — le preguntaba su tía Anita, quien traía el correo. `sin cambios`
+**6 ES.** —¿Cómo estás, Afortunado? —le preguntaba su tía Anita, quien traía el correo. `sin cambios`
 
 ---
 
 **7 EN.** Rocky always smiled at everyone and wagged his tail amiably. He loved being Lucky!
 
-**7 ES.** Rocky siempre les sonreía y saludaba con su cola. ¡Le gustaba ser el Afortunado! `sin cambios`
+**7 ES.** Rocky siempre les sonreía y **movía la cola en señal de alegría**. ¡Le gustaba ser el Afortunado! `lexico`
+> "saludaba con su cola" → "movía la cola en señal de alegría" (del traductor cubano), más natural y más cerca de "wagged his tail amiably".
 
 ---
 
@@ -84,14 +85,14 @@ Marcas al final de la linea ES: `sin cambios` / `tratamiento` / `lexico` /
 
 **13 EN.** "I'm scared!" Penny said. "We can't find our way home! What will happen to us now?"
 
-**13 ES.** — ¡Tengo miedo! — dijo Penny. — ¡No podemos encontrar el camino a casa! ¿Qué será de nosotros ahora? `contenido`
+**13 ES.** —¡Tengo miedo! —dijo Penny—. ¡No podemos encontrar el camino a casa! ¿Qué será de nosotros ahora? `contenido`
 > EN: "What will happen to us now?". ES decia "¿Que hacemos ahora?" (que hacemos), que es otra pregunta.
 
 ---
 
 **14 EN.** "Don't be afraid!" replied Rocky. "I'll definitely come up with a plan. We'll be alright. Look," he pointed, "see that big oak tree at the edge of the forest? Let's hide under it from the rain and think about what to do next."
 
-**14 ES.** — ¡No **tengan** miedo! — respondió Rocky. — Seguro que se me ocurre algo, todo va a salir bien. **Miren**, — señaló, — ¿**ven** ese gran roble **al borde del bosque**? Vamos a refugiarnos de la lluvia debajo de él y a pensar qué hacer después. `tratamiento` `contenido`
+**14 ES.** —¡No **tengan** miedo! —respondió Rocky—. Seguro que se me ocurre algo, todo va a salir bien. **Miren** —señaló—, ¿**ven** ese gran roble **al borde del bosque**? Vamos a refugiarnos de la lluvia debajo de él y a pensar qué hacer después. `tratamiento` `contenido`
 > tengais/Mirad/veis → tengan/Miren/ven. "en el claro" (en el claro del bosque) → "al borde del bosque", como en EN.
 
 ---
@@ -104,19 +105,19 @@ Marcas al final de la linea ES: `sin cambios` / `tratamiento` / `lexico` /
 
 **16 EN.** "Someone lives here," Brisket said.
 
-**16 ES.** — Aquí vive alguien, — dijo Brisket. `sin cambios`
+**16 ES.** —Aquí vive alguien —dijo Brisket. `sin cambios`
 
 ---
 
 **17 EN.** "Let's knock on the door and ask if we can wait out the storm," Rocky proposed.
 
-**17 ES.** — ¿Tocamos la puerta y pedimos refugio de la tormenta? — sugirió Rocky. `sin cambios`
+**17 ES.** —¿Tocamos la puerta y pedimos refugio de la tormenta? —sugirió Rocky. `sin cambios`
 
 ---
 
 **18 EN.** "Wait," Penny said, "what if someone scary lives there?"
 
-**18 ES.** — Espera, — dijo Penny, — ¿y si vive alguien malvado ahí? `sin cambios`
+**18 ES.** —Espera —dijo Penny—, ¿y si vive alguien malvado ahí? `sin cambios`
 
 ---
 
@@ -128,7 +129,7 @@ Marcas al final de la linea ES: `sin cambios` / `tratamiento` / `lexico` /
 
 **20 EN.** "I don't think anyone bad could live in there," Rocky said. "Let me knock on the door and we'll see. But just in case, be prepared to run away quickly!"
 
-**20 ES.** — No creo que alguien malo viva allí, — dijo Rocky. — Voy a llamar a la puerta y veremos. Pero, por si acaso, **estén listos para salir corriendo**. `tratamiento` `lexico`
+**20 ES.** —No creo que alguien malo viva allí —dijo Rocky—. Voy a llamar a la puerta y veremos. Pero, por si acaso, **estén listos para salir corriendo**. `tratamiento` `lexico`
 > estad → esten. "salir por patas" es de Espana → "salir corriendo".
 
 ---
@@ -142,21 +143,21 @@ Marcas al final de la linea ES: `sin cambios` / `tratamiento` / `lexico` /
 
 **22 EN.** "Hi, guys!" said the Owl.
 
-**22 ES.** — ¡Hola, chicos! — dijo la lechuza. `eliminado`
+**22 ES.** —¡Hola, chicos! —dijo la lechuza. `eliminado`
 > Se quita la leccion de ingles: "¡Hello, guys! (Heh-lo, gayz)".
 
 ---
 
 **23 EN.** "Hello, Grandma," Rocky answered for everyone.
 
-**23 ES.** — Hola, abuelita, — respondió Rocky por todos. `eliminado`
+**23 ES.** —Hola, abuelita —respondió Rocky por todos. `eliminado`
 > ES tenia aqui "— ¿Heh-lo, quien? — pregunto Penny titubeando", que no existe en EN.
 
 ---
 
 **24 EN.** "Well, why are you still standing there?" Owl smiled. "You're soaking wet and cold. Come in quickly! I'm always happy when guests come around!" and she opened the door even wider.
 
-**24 ES.** — Bien, ¿por qué **se quedaron** ahí parados? — sonrió la lechuza. — **Están** completamente empapados y congelados. ¡**Entren** rápido! ¡Siempre me ponen feliz las visitas! — y abrió la puerta aún más. `eliminado` `tratamiento`
+**24 ES.** —Bien, ¿por qué **se quedaron** ahí parados? —sonrió la lechuza—. **Están** completamente empapados y congelados. ¡**Entren** rápido! ¡Siempre me ponen feliz las visitas! —y abrió la puerta aún más. `eliminado` `tratamiento`
 > Se quita la explicacion "significa Hola chicos... es una forma de saludar en ingles".
 
 ---
@@ -170,14 +171,14 @@ Marcas al final de la linea ES: `sin cambios` / `tratamiento` / `lexico` /
 
 **26 EN.** "My name is Grandma Beatrice. I came here from England. It's a beautiful country far away from here," she smiled again and asked: "What are your names, young puppies? And what happened to you?"
 
-**26 ES.** — Mi nombre es abuelita Beatriz. Vine aquí desde Inglaterra, **un país muy hermoso y muy lejano de aquí**, — sonrió de nuevo y preguntó: — ¿Cómo **se llaman**, jovencitos? ¿Y qué **les pasó**? `contenido` `tratamiento`
+**26 ES.** —Mi nombre es abuelita Beatriz. Vine aquí desde Inglaterra, **un país muy hermoso y muy lejano de aquí** —sonrió de nuevo y preguntó—: ¿Cómo **se llaman**, jovencitos? ¿Y qué **les pasó**? `contenido` `tratamiento`
 > ES decia "un pais muy lejano donde hablan ingles". EN no menciona el idioma, dice que es un pais hermoso.
 
 ---
 
 **27 EN.** "My name is Rocky, Lucky Rocky!" answered the puppy. "This is my sister Penny," he pointed to her.
 
-**27 ES.** — Me llamo Rocky, ¡Rocky el Afortunado! — respondió el cachorro. — Esta es mi hermanita Penny, — señaló hacia ella. `sin cambios`
+**27 ES.** —Me llamo Rocky, ¡Rocky el Afortunado! —respondió el cachorro—. Esta es mi hermanita Penny —señaló hacia ella. `sin cambios`
 
 ---
 
@@ -189,7 +190,7 @@ Marcas al final de la linea ES: `sin cambios` / `tratamiento` / `lexico` /
 
 **29 EN.** "And this is my best friend Brisket," Rocky continued.
 
-**29 ES.** — Y este es mi mejor amigo, Brisket, — continuó Rocky. `sin cambios`
+**29 ES.** —Y este es mi mejor amigo, Brisket —continuó Rocky. `sin cambios`
 
 ---
 
@@ -202,20 +203,20 @@ Marcas al final de la linea ES: `sin cambios` / `tratamiento` / `lexico` /
 
 **31 EN.** "We went for a walk in the forest and got lost. When the thunderstorm and the rain began, we ran to the oak tree and saw the door, Grandma Owl. That's the whole story!"
 
-**31 ES.** — Fuimos a dar un paseo por el bosque y nos perdimos. Cuando comenzó la tormenta y la lluvia, corrimos hacia el roble y vimos la puerta, abuelita lechuza. ¡Esa es toda la historia! `contenido`
+**31 ES.** —Fuimos a dar un paseo por el bosque y nos perdimos. Cuando comenzó la tormenta y la lluvia, corrimos hacia el roble y vimos la puerta, abuelita lechuza. ¡Esa es toda la historia! `contenido`
 > EN: "Grandma Owl". ES decia "abuelita Beatriz", pero en este punto los cachorros aun no habian oido su nombre... en EN si lo habian oido. Se mantiene el vocativo de EN.
 
 ---
 
 **32 EN.** "Well, well… very interesting," said the Owl. "Do your parents know that you are in the forest?"
 
-**32 ES.** — Vaya, vaya… muy interesante, — dijo la lechuza. — ¿Y **sus** padres saben que **están** en el bosque? `tratamiento`
+**32 ES.** —Vaya, vaya… muy interesante —dijo la lechuza—. ¿Y **sus** padres saben que **están** en el bosque? `tratamiento`
 
 ---
 
 **33 EN.** "They do," Rocky said, waving his paw. "Actually, we told them that we won't go too far, and would play right at edge of the forest."
 
-**33 ES.** — Sí, lo saben, — confirmó Rocky moviendo la pata. — Aunque les dijimos que no nos alejaríamos mucho, que solo jugaríamos al borde del bosque. `sin cambios`
+**33 ES.** —Sí, lo saben —confirmó Rocky moviendo la pata—. Aunque les dijimos que no nos alejaríamos mucho, que solo jugaríamos al borde del bosque. `sin cambios`
 
 ---
 
@@ -228,20 +229,20 @@ Marcas al final de la linea ES: `sin cambios` / `tratamiento` / `lexico` /
 
 **35 EN.** "I also loved adventures when I was little," she said, "and I know many amazing stories."
 
-**35 ES.** — Yo también amaba las aventuras cuando era pequeña, — dijo. — Y conozco muchas historias sorprendentes. `parrafo`
+**35 ES.** —Yo también amaba las aventuras cuando era pequeña —dijo—. Y conozco muchas historias sorprendentes. `parrafo`
 
 ---
 
 **36 EN.** "Please tell us!" asked the friends.
 
-**36 ES.** — ¡Cuéntanos, por favor! — pidieron los amigos. `parrafo` `contenido`
+**36 ES.** —¡Cuéntanos, por favor! —pidieron los amigos. `parrafo` `contenido`
 > EN dice "Please tell us!". ES repetia "¡Cuentanos! ¡Cuentanos!" y perdia el "please".
 
 ---
 
 **37 EN.** "Sure, I will, but that will be next time," promised Grandma Owl. "The rain has stopped; the sun is out again and it's time for you to go home!" she said. "Your parents must be very worried, because they don't know where you are. I'll walk you home. And when you come to visit next time, I will definitely tell you one of my amazing stories."
 
-**37 ES.** — **Claro que sí, pero será la próxima vez**, — prometió la abuelita lechuza. — La lluvia **ya terminó**, el sol **volvió** a salir y es hora de que **vuelvan** a casa. Seguro que **sus** padres están muy preocupados, porque no saben dónde **están**. **Los** voy a acompañar. Y la próxima vez que **vengan** a verme, **sin duda** **les** contaré una de mis maravillosas historias. `tratamiento` `parrafo` `contenido`
+**37 ES.** —**Claro que sí, pero será la próxima vez** —prometió la abuelita lechuza—. La lluvia **ya terminó**, el sol **volvió** a salir y es hora de que **vuelvan** a casa. Seguro que **sus** padres están muy preocupados, porque no saben dónde **están**. **Los** voy a acompañar. Y la próxima vez que **vengan** a verme, **sin duda** **les** contaré una de mis maravillosas historias. `tratamiento` `parrafo` `contenido`
 > EN no nombra el objeto: "Sure, I will". Asi se evita el problema de "se la / se las". Ademas se recupera "definitely" → "sin duda".
 
 ---
@@ -254,14 +255,14 @@ Marcas al final de la linea ES: `sin cambios` / `tratamiento` / `lexico` /
 
 **39 EN.** "Goodbye, my friends!" Owl said to them when they reached Grandpa Jose's house.
 
-**39 ES.** — ¡Adiós, amigos míos! — les dijo la lechuza cuando llegaron a la casa del abuelo José. `eliminado`
+**39 ES.** —¡Adiós, amigos míos! —les dijo la lechuza cuando llegaron a la casa del abuelo José. `eliminado`
 > Se quita la leccion: "¡Goodbye! (good-bay)... En ingles, eso significa Adios".
 
 ---
 
 **40 EN.** "Goodbye, Grandma Beatrice!" the friends answered and ran home cheerfully.
 
-**40 ES.** — ¡Adiós, abuelita Beatriz! — respondieron los amigos y corrieron alegremente a casa. `eliminado`
+**40 ES.** —¡Adiós, abuelita Beatriz! —respondieron los amigos y corrieron alegremente a casa. `eliminado`
 
 ---
 
